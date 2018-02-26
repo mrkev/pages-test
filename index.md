@@ -3,4 +3,4 @@
 # This is dope
 
 
-[appcast](/appcast.xml)
+[appcast](./appcast.xml)
