@@ -6,4 +6,4 @@ boi
 
 [appcast](./appcast.xml)
 
-{{ site }}
+{{ site.github }}
